@@ -1,0 +1,51 @@
+#main-section {
+  width: 1300px;
+  height: 320px;
+  border: 1px solid black;
+  background-color: #fdf4d7;
+}
+.logo-sec {
+  display: flex;
+  width: 25px;
+  height: 20px;
+  margin-left: 15px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+span {
+  color: blueviolet;
+}
+h2 {
+  margin: 0px;
+  margin-left: 15px;
+}
+#Beautiful-sec img {
+  display: flex;
+  width: 120px;
+  height: 100px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-top: 20px;
+}
+#Beautiful-sec {
+  display: flex;
+}
+#Construction-sec {
+  display: flex;
+}
+#Construction-sec img {
+  width: 120px;
+  height: 100px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-top: 20px;
+}
+#content-image {
+  display: flex;
+  margin-top: 10px;
+}
+#para {
+  text-align: end;
+  margin-bottom: 0px;
+  margin-right: 10px;
+}
